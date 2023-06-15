@@ -102,11 +102,11 @@
   "shared": {
     "source": {
       "type": "git",
-      "source": "https://github.com/carrier-io/shared.git",
-      "branch": "beta-1.0"
+      "source": "https://github.com/attilavetesi-epam/carrier-io-shared.git",
+      "branch": "beta-1.0_patches"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/shared/beta-1.0/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/attilavetesi-epam/carrier-io-shared/beta-1.0_patches/metadata.json"
     }
   },
   "tasks": {
@@ -122,11 +122,11 @@
   "secrets": {
     "source": {
       "type": "git",
-      "source": "https://github.com/carrier-io/secrets.git",
-      "branch": "beta-1.0"
+      "source": "https://github.com/attilavetesi-epam/carrier-io-secrets.git",
+      "branch": "beta-1.0_patches"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/secrets/beta-1.0/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/attilavetesi-epam/carrier-io-secrets/beta-1.0_patches/metadata.json"
     }
   },
   "backend_performance": {
